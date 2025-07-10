@@ -1,23 +1,24 @@
 🚀 Project Title: Fake Review Detection System – Deep Learning & NLP
-Project Description
+
+Project Description:
 Developed a web app to detect fake product reviews using an LSTM-based deep learning model. The solution processes user input reviews and predicts whether they are fake or genuine using NLP techniques.
 
-Tech Stack
+1.Tech Stack
 
-Python, TensorFlow, Keras
+  -Python, TensorFlow, Keras
 
-Streamlit (for frontend web app)
+  -Streamlit (for frontend web app)
 
-NLTK (tokenization, lemmatization, padding)
+  -NLTK (tokenization, lemmatization, padding)
 
-Plotly (interactive confidence gauges)
+  -Plotly (interactive confidence gauges)
 
-Key Features
+2.Key Features
 
-Classifies reviews as fake or genuine
+  -Classifies reviews as fake or genuine
 
-Achieves ~90% accuracy
+  -Achieves ~90% accuracy
 
-Real-time prediction interface
+  -Real-time prediction interface
 
-Visualizes prediction confidence
+  -Visualizes prediction confidence
